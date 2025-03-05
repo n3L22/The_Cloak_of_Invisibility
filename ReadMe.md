@@ -25,12 +25,11 @@ A piece of blue fabric (the more vibrant the blue, the better the magic works!)
 
 Clone this magical repository:
 
-bashCopygit clone https://github.com/yourusername/blue-invisibility-cloak.git
-cd blue-invisibility-cloak
+git clone [https://github.com/yourusername/blue-invisibility-cloak](https://github.com/n3L22/The_Cloak_of_Invisibility/)
 
 Install the magical dependencies:
 
-bashCopypip install opencv-python numpy
+pip install opencv-python numpy
 
 That's it! No eye of newt or toe of frog needed.
 
@@ -38,7 +37,7 @@ That's it! No eye of newt or toe of frog needed.
 
 Run the magic spell:
 
-bashCopypython blue_invisibility.py
+python cloak_mantel.py
 
 Step away from the camera's view (the spell needs to capture the background)
 Wait for the 3-second countdown
@@ -49,7 +48,7 @@ Press 'q' to break the spell and exit
 🧙 Advanced Spellcasting (Customization)
 Want to adjust the magic for different shades of blue or lighting conditions?
 Modify these lines in the code:
-pythonCopy# Define range for blue color in HSV
+# Define range for blue color in HSV
 lower_blue = np.array([90, 50, 50])
 upper_blue = np.array([130, 255, 255])
 
