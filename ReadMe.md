@@ -1,7 +1,4 @@
 🧙‍♂️ The Magical Blue Invisibility Cloak 🧙‍♀️
-Show Image
-Show Image
-Show Image
 <p align="center">
   <img src="https://media.tenor.com/4tC_NBki6UUAAAAM/harry-potter-daniel-radcliffe.gif" alt="Magic Animation" width="300"/>
 </p>
